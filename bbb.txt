@@ -1,7 +1,7 @@
 我是在master分支上的第一个版本
 
 
-我是bbb.txt 
+我是bbb.txt （master版本的）
 
 
 
